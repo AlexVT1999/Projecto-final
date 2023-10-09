@@ -1,3 +1,3 @@
 # forkify Project final course
 
-Recipe application with custom recipe uploads.
+Aplicación sobre recetas elaborada en el curso de UDEMY The Complete JavaScript Course 2023: From Zero to Expert!
